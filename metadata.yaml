@@ -1,5 +1,5 @@
 _repo: Heidi_1448
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -41,6 +41,7 @@ subjects:
 - !lcc 'PZ'
 - !lcsh 'Orphans -- Fiction'
 - !lcsh 'Mountain life -- Switzerland -- Fiction'
+- GITenberg
 title: Heidi
 url: http://www.gutenberg.org/ebooks/1448
 wikipedia:
